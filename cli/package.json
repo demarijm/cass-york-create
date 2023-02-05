@@ -1,18 +1,17 @@
 {
-  "name": "create-t3-app",
+  "name": "create-cass-york",
   "version": "7.4.1",
-  "description": "Create web application with the t3 stack",
+  "description": "Create web application with an opinionated Cass&York Stack",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/t3-oss/create-t3-app.git",
+    "url": "https://github.com/demarijm/cass-york-create.git",
     "directory": "cli"
   },
   "keywords": [
-    "create-t3-app",
+    "cass-york",
     "init.tips",
     "next.js",
-    "t3-stack",
     "tailwind",
     "tRPC",
     "typescript"
