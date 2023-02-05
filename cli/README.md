@@ -98,21 +98,6 @@ pnpm create t3-app@latest
 
 For more advanced usage, check out the [CLI docs](https://create.t3.gg/en/installation).
 
-<h2 id="community">Community</h2>
-
-For help, discussion about best practices, or any other conversation that would benefit create-t3-app:
-
-[Join the T3 Discord Server](https://t3.gg/discord)
-
-<h2 id="contributors">Contributors</h2>
-
-We 💖 contributors! Feel free to contribute to this project but **please read the [Contributing Guidelines](CONTRIBUTING.md) before opening an issue or PR** so you understand the branching strategy and local development environment. We also welcome you to join our [Discord](https://discord.gg/tEAQjDseSX) community for either support or contributing guidance.
-
-<a href="https://github.com/t3-oss/create-t3-app/graphs/contributors">
-  <p align="center">
-    <img width="720" src="https://contrib.rocks/image?repo=t3-oss/create-t3-app" alt="A table of avatars from the project's contributors" />
-  </p>
-</a>
 
 <p align="center">
   Made with <a rel="noopener noreferrer" target="_blank" href="https://contrib.rocks">contrib.rocks</a>
