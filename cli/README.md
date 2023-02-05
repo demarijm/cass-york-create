@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  create-t3-app
+  cass-york-create
 </h1>
 
 <p align="center">
